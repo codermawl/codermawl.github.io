@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://coderwing.github.io
+url: https://codermawl.github.io
 date_format: "ordinal"
-title: 宋文兄
-subtitle: "日拱一卒无有尽,功不唐捐终入海"
-description: "宋文兄的个人博客"
-keywords: 宋文兄,coderwing,Wator
+title: 巨石成分
+subtitle: "代有江山终妩媚，码至神笔亦乾坤"
+description: "巨石成分的个人博客"
+keywords: 巨石成分,codermawl,Wator
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 宋旭东
+author: 巨石成分
 organization:
 organization_url:
-github_username: coderwing
+github_username: codermawl
 location: Beijing, China
-email: coderwing@163.com
+email: 1149649914@qq.com
 
 # ---------------- #
 #    Navigation    #
