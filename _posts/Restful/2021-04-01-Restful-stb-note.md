@@ -6,12 +6,6 @@ description: 小项目与Restful规范
 keywords: keyword1, keyword2
 ---
 
-# TBS与Restful规范
-
-> Create by ***Codermawl*** at 2021-04-01
-
-----
-
 ***开篇小语***
 
 - 表述性状态转移（Representational State Transfer） --- *Restful*
