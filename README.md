@@ -73,7 +73,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 * 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
 
-## 致谢
+## 致谢【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.xxooaa】
 
 本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
 
