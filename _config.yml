@@ -95,14 +95,14 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: coderwing
+    owner: codermawl
     repo: blog-comments-Repo
     oauth:
         client_id: e04660e5bd22b957e161
         client_secret: 9b019f5fbda5bc4dc1e298f4f0d1c36ff247363f
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: coderwing
+    owner: codermawl
     repo: blog-comments-Repo
     clientID: e04660e5bd22b957e161
     clientSecret: 9b019f5fbda5bc4dc1e298f4f0d1c36ff247363f
