@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: coderwing/coderwing.github.io
+repository: codermawl/codermawl.github.io
 
 # ---------------- #
 #      Comments    #
