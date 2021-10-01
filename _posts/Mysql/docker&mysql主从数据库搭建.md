@@ -2,7 +2,7 @@
 layout: post
 title: docker mysql5.7主从数据库搭建
 categories: [http, https, mysql, docker]
-description: docker mysql5.7主从数据库搭建
+description: docker mysql5.7主从数据库搭建（2020-07-28）
 keywords: mysql, 主从
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 小项目与Restful规范
 categories: [http, https, java]
-description: 小项目与Restful规范
+description: 小项目与Restful规范（2021-04-01）
 keywords: keyword1, keyword2
 ---
 
